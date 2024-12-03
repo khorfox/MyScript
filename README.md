@@ -10,8 +10,9 @@ Backup:
 	backupEclipse.py effettua il backup dei progetti di eclipse
 
 Nuovo PC:
-	creashort.ps1 crea link sul desktop
+	creashort.ps1 crea link sul desktop dei programmi
 	pinQuickAccess.ps1 aggiunge programmi sulla taskbar
+	creashort.cmd: crea un link dei file contenuti in una directory sul desktop
 
 Manage Teams:
 	GetTeamUsers.ps1 esporta una lista degli utenti di un Team
